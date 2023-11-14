@@ -1,3 +1,4 @@
+// Neanderthalian way
 Vue.createApp({}).mount("#app");
 
 // Recommended Setup
